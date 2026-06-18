@@ -27,6 +27,7 @@ I am a passionate **Full-Stack Developer** and **IT Engineering Student** curren
 ### 📌 Pinned Projects
 * **[Fitness-Tracker-PFE](https://github.com/Mounib-Chandoul/Fitness-Tracker):** A full-stack solution featuring user authentication, plan management, and real-time synchronization.
 * **[XAUUSD-AI-Trader](https://github.com/Mounib-Chandoul/Ai_Trader_XAUUSD):** An algorithmic trading bot utilizing ML models for predictive signals and rigorous risk management logic.
+* **[CrystalSight](https://github.com/Mounib-Chandoul/CrystalSight):** My first real e-commerce project for a real client.
 * **[Student-Management-JavaFX](https://github.com/Mounib-Chandoul/Student-Management-App):** A desktop application demonstrating strong grasp of OOP and MVC patterns.
 
 ---
