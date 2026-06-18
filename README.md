@@ -32,6 +32,5 @@ I am a passionate **Full-Stack Developer** and **IT Engineering Student** curren
 ---
 
 ### ✉️ Let's Connect!
-* **LinkedIn:** [Your Profile Link]
-* **Email:** [Your Email Address]
-* **Portfolio/Blog:** [Your Portfolio Link if you have one]
+* **Email:** chandoulwork@gmail.com
+* **Portfolio/Blog:** https://mounib-protfolio.netlify.app/
